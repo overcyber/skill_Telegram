@@ -1,7 +1,7 @@
 import json
 from datetime import datetime, timezone
 from typing import Dict, List
-#
+# modification 1
 import urllib.request
 #
 import telepot
@@ -18,7 +18,7 @@ from core.commons import constants
 from core.dialog.model.DialogSession import DialogSession
 from core.util.Decorators import MqttHandler
 
-#
+#modification 2
 proxy_url = 'http://SEU_PROXY_AQUI:PORTA_DO_PROXY_AQUI'
 telepot.api.set_proxy(proxy_url, ('USER_DO_PROXY_AQUI', 'SENHA_DO_PROXY_AQUI'))
 #
