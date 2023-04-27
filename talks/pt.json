@@ -1,0 +1,31 @@
+{
+    "unknownUser": [
+        "Um usuário desconhecido está me enviando mensagens! O nome dele é \"{}\". Você deseja que eu o adicione aos usuários permitidos?",
+        "Acabei de receber uma mensagem de um usuário desconhecido! O nome dele é \"{}\". Devo adicioná-lo aos usuários permitidos?",
+        "Alguém que eu não conheço me enviou uma mensagem. O nome dele é \"{}\". Você deseja permitir que esse usuário me envie mensagens?"
+    ],
+    "okAdded": [
+        "Ok, acabei de adicionar esse usuário!",
+        "Claro, adicionei o usuário aos usuários permitidos.",
+        "Feito!"
+    ],
+    "okNotAdded": [
+        "Claro, esse usuário não poderá me enviar mensagens!",
+        "Ok, sem mensagens desse usuário!"
+    ],
+    "whitelisted": [
+        "Olá {}! Você foi adicionado à lista de permissões e agora está autorizado a me enviar mensagens!"
+    ],
+    "blacklisted": [
+        "{}... Você foi adicionado à lista de bloqueios e não está autorizado a me enviar mensagens. Por favor, não faça isso novamente!"
+    ],
+    "greet": [
+        "Olá {}!",
+        "Oi {}!",
+        "Ei {}!"
+    ],
+    "sessionTimeout": [
+        "Desculpe, seu pedido expirou.",
+        "Por favor, tente novamente, o pedido expirou."
+    ]
+}
